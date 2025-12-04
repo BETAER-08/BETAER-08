@@ -1,17 +1,16 @@
+<!-- HEADER : Bauhaus geometric banner -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/bauhaus-header.svg" />
+</p>
+
 <h1 align="center" style="font-weight:700; letter-spacing:2px;">BETAER</h1>
 
 <p align="center">
   Builder · System Architecture · Automation · AI-driven Development
 </p>
 
-<div align="center" style="margin-top:24px;">
-  <span style="font-size:42px;">🟥</span>
-  <span style="font-size:42px;">🟨</span>
-  <span style="font-size:42px;">🟦</span>
-</div>
-
-<p align="center" style="margin-top:8px;">
-  geometry · clarity · minimal systems · function over decoration
+<p align="center">
+  minimal systems • geometric structure • function over decoration
 </p>
 
 ---
@@ -19,14 +18,14 @@
 ## Identity
 
 - 기술보다 **구조**, 구조보다 **흐름**, 흐름보다 **완성도**  
-- 하나의 시스템을 처음부터 끝까지 **직접 설계하고 구현**  
-- 반복·패턴·루틴은 도구·스크립트·AI로 전부 치환  
-- 단순한 화면 뒤에도 **정확한 리듬과 데이터 흐름**을 배치  
-- “혼자서 팀 같은 생산성”을 목표로 하는 빌더
+- 기능·화면·데이터·상태를 하나의 시스템으로 설계  
+- 반복되는 개발 루틴은 모두 **스크립트/도구/AI**로 자동화  
+- “혼자서 팀처럼 일하는 빌더”를 목표로 함  
+- 장식 없는 기하학적 구조, 명확한 정보 배치 선호  
 
 ---
 
-## Capabilities (Bauhaus Icon Line)
+## Capabilities
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,kotlin,react,flutter,fastapi,nodejs,docker,linux,git,github,vscode,figma,ps,ai,blender" />
@@ -37,11 +36,11 @@
 ## Workflow Philosophy
 
 - form follows function  
-- automation over repetition  
 - clarity > complexity  
-- build systems that remain stable for years  
-- AI is a structural assistant, not decoration  
 - minimal components, maximal coherence  
+- automation over repetition  
+- AI는 구조적 도구이지 땜질용 패치가 아님  
+- 제품은 “돌아가는 것”이 아니라 “버티는 것”이어야 한다  
 
 ---
 
@@ -61,6 +60,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/bauhaus-footer.svg" />
+</p>
 
 <p align="center">
   <sub>contact: (추가 예정)</sub>
