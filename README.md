@@ -52,7 +52,7 @@ Figma · Photoshop · Illustrator · Premiere Pro · After Effects · Blender
 
 ## 📫 Contact  
 <p align="center">
-  (추가할 이메일·포트폴리오 링크 자리)
+  try.betaer@gmail.com
 </p>
 
 <!-- FOOTER -->
