@@ -50,9 +50,10 @@ My work centers on simplifying processes and creating stable, maintainable syste
 
 ## 📫 Contact  
 <p align="center">
-  try.betaer@gmail.com
+  <a href="mailto:tr.betar@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
 </p>
-
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=footer"/>
