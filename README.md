@@ -51,8 +51,10 @@ My work centers on simplifying processes and creating stable, maintainable syste
 ## 📫 Contact  
 <p align="center">
   <a href="mailto:tr.betar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" />
   </a>
+  <br/>
+  <sub>tr.betar@gmail.com</sub>
 </p>
 <!-- FOOTER -->
 <p align="center">
