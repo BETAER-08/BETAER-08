@@ -5,43 +5,49 @@
 
 <h3 align="center">Builder | Full-Cycle Developer | AI-Driven Maker</h3>
 <p align="center">
-  I build systems from start to finish.<br/>
-  Architecture · Implementation · Automation · Deployment · AI-assisted Workflow
+  I build systems from scratch: structure → implementation → automation → deployment.
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="33%">
-<h4>🔹 AI Commit & PR Generator</h4>
-<p>Git 기록 자동화 도구</p>
-<a href="https://github.com/BETAER-08/AI-Commit-PR-Generator">View Repo</a>
-</td>
-
-<td width="33%">
-<h4>🔹 BetaStack</h4>
-<p>개발 루틴·구조 자동화를 위한 Builder 플랫폼</p>
-<a href="https://github.com/BETAER-08/BetaStack">View Repo</a>
-</td>
-
-<td width="33%">
-<h4>🔹 MorningBoard</h4>
-<p>일상 정보를 한 화면으로 정리하는 패널</p>
-<a href="https://github.com/BETAER-08/MorningBoard">View Repo</a>
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Tech Stack
+## 🧩 Tech Stack (Actual Tools)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,flutter,dart,kotlin,react,git,github,docker,vscode,linux,ps,ai,pr,ae" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,flutter,kotlin,react,fastapi,nodejs,docker,linux,git,github,vscode,figma,ps,ai,pr,ae,blender" />
 </p>
+
+---
+
+## 🎯 Code Philosophy
+
+- 구조가 먼저, 코드는 그 다음  
+- 데이터 흐름이 복잡하면 기능도 불안정해진다  
+- 반복되는 것은 전부 자동화하거나 제거한다  
+- 짧고 단단한 코드를 선호  
+- 불필요한 추상화, 불명확한 네이밍, 무조건 배척  
+- “나중에 고치지 않아도 되는 코드”를 목표로 한다  
+
+---
+
+## 🎨 Design Philosophy
+
+- 보여주기 위한 장식은 배제  
+- 정보의 우선순위가 화면 구성 기준  
+- 기능 단위로 정렬된 기하학적 레이아웃 선호  
+- 하나의 화면에 하나의 목적만  
+- 복잡한 요소는 통합하거나 제거  
+- 색상은 제한적으로 사용하고 구조로 의미 전달  
+
+---
+
+## 🏗 Project Philosophy
+
+- 최소 기능이 아니라 “완성도 있는 단위”로 개발  
+- 새 기능보다 유지보수성과 안정성을 우선  
+- 빠르게 붙이고 버리는 실험보다, 구조적 반복 가능성을 선호  
+- 사용자가 직접 느끼는 흐름이 끊기지 않게 설계  
+- 도구·스크립트·AI를 활용해 혼자서 여러 역할 수행  
+- 프로젝트는 “작동”이 아니라 “지속”을 기준으로 평가  
 
 ---
 
@@ -62,19 +68,9 @@
 
 ---
 
-## 🎯 Builder Philosophy
-
-- 복잡한 흐름을 단순한 구조로 바꾸는 데 집중한다  
-- 기능보다 전체 시스템의 안정성과 일관성을 우선한다  
-- 반복되는 작업은 전부 자동화하거나 도구화한다  
-- AI는 작업 속도와 정확성을 높이는 파트너  
-- 목표는 “동작하는 수준”이 아니라 “지속 가능한 시스템”  
-
----
-
 ## 📫 Contact  
 <p align="center">
-  (추가할 이메일·포트폴리오 링크 자리)
+  (추가할 이메일·포트폴리오 자리)
 </p>
 
 <!-- FOOTER -->
