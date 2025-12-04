@@ -1,107 +1,70 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/profile-logo.png" width="140" alt="BETAER Logo" />
+</p>
 
 <h1 align="center">BETAER</h1>
-<h3 align="center">AI-driven Builder · System Architect · Full-Cycle Developer</h3>
-
 <p align="center">
-I build complete systems end-to-end.<br/>
-Architecture → Native → Web → Backend → Automation → AI Integration → Deployment
+  Builder · System Architecture · Automation · AI-assisted Development
 </p>
 
 ---
 
-## 🧩 About
+## About
 
-- Builder: I design and implement the whole system, not just isolated features  
-- Strong focus on architecture, automation, and maintainable workflows  
-- Prefer minimal, predictable, long-term scalable solutions  
+> `whoami`  
+> Builder who designs and ships complete systems, not single features.  
+> From idea → flow → architecture → implementation → deployment.
 
----
-
-## 🔥 Skills
-
-### Core Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust" />
-</div>
-
-### Client / Native
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin" />
-</div>
-
-### Backend / Infra
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux" />
-</div>
-
-### Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" />
-</div>
-
-### AI & Automation
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=githubactions,vscode" />
-</div>
+> `style`  
+> Calm, minimal, opinionated. Prefer clear structure over visual noise.
 
 ---
 
-## 🚀 Featured Projects
+## What I Build
 
-### 🔹 BetaStack
-AI-assisted builder productivity platform.  
-- Multi-env branch automation  
-- API data pipelines  
-- Code generation and edit flows  
-**Repo:** https://github.com/BETAER-08/BetaStack  
+- **Daily-life and school automation** – information 패널, 루틴 정리, 알림 흐름 설계  
+- **Developer productivity tools** – 커밋·PR·브랜치·환경을 자동으로 관리하는 도구  
+- **System experiments** – UEFI, Rust, 저수준 구조 실험 및 학습용 프로젝트  
+- **AI-assisted workflows** – 코딩, 리서치, 문서화까지 이어지는 개발 루틴 자동화
 
 ---
 
-### 🔹 MorningBoard
-School-life automation panel.  
-- Transport, weather, AQI, routines 통합  
-- 위치 기반 로직 + 상태 머신 구조  
-**Repo:** https://github.com/BETAER-08/MorningBoard  
+## Capabilities
+
+| 영역 | 내가 실제로 하는 일 |
+|------|----------------------|
+| System Design | 화면·API·데이터 흐름을 하나의 구조로 정리하고 설계 |
+| Product Building | 기획 → UX 흐름 → 구현 → 사용성 확인까지 전체 사이클 담당 |
+| Automation & Tools | 반복 작업을 스크립트·도구·AI로 치환해 개발 루틴 단순화 |
+| Native & Web | Flutter / Web / Native 구조를 섞어도 흐름이 깨지지 않게 설계 |
+| AI Workflow | GPT·Claude·Gemini 등을 개발 파이프라인에 붙여 “혼자 하는 팀”에 가깝게 운영 |
 
 ---
 
-### 🔹 AI Commit & PR Generator
-AI 기반 커밋 메시지·PR 템플릿 자동 생성.  
-- Git 개발 루틴 자동화  
-- 커밋 품질 및 일관성 향상  
-**Repo:** https://github.com/BETAER-08/AI-Commit-PR-Generator  
+## Active Projects
+
+### BetaStack
+개발자·빌더를 위한 생산성 플랫폼.  
+코드 편집 흐름, 브랜치 구조, API 파이프라인을 AI와 함께 설계·자동화.
+
+### MorningBoard
+학교 생활 자동화 보드.  
+버스, 날씨, 대기질, 루틴을 한 화면에 정리해서 “하루 플로우”를 관리.
+
+### AI Commit & PR Generator
+커밋 메시지, PR 템플릿, 변경 요약을 AI로 생성해 Git 히스토리를 깔끔하게 유지.
 
 ---
 
-## 📊 Statistics
+## Now / Next
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BETAER-08&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETAER-08&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BETAER-08&theme=tokyonight&hide_border=true" width="47%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BETAER-08&theme=react-dark&hide_border=true&area=true" />
-</div>
+- 개인 개발 루틴을 더 자동화하기 위한 도구와 스크립트 설계  
+- BetaStack, MorningBoard를 포트폴리오 기준 품질로 다듬기  
+- Rust / UEFI / 시스템 레벨 이해도 계속 확장하기  
+- “한 명의 빌더가 어디까지 할 수 있는가”를 실험하는 프로젝트 이어가기  
 
 ---
 
-## 🧠 Builder Philosophy
+## Contact
 
-- Architecture first, implementation second  
-- Automation over repetition  
-- Explicit > Implicit  
-- Minimal, functional UI  
-- AI는 구조적 보조도구이지 땜질용이 아님  
-- “한 번 돌고 끝나는 코드”가 아니라, 오래 버티는 시스템을 만든다  
-
----
-
-## 📫 Contact
-
-- (원하면 여기 이메일 / SNS 링크 추가)
+- (이메일, 포트폴리오, SNS를 여기에 추가할 예정)
