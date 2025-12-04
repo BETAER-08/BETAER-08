@@ -1,70 +1,83 @@
-<!-- HEADER : Bauhaus geometric banner -->
+<!-- HEADER -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/bauhaus-header.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=220&section=header&text=BETAER&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center" style="font-weight:700; letter-spacing:2px;">BETAER</h1>
-
+<h3 align="center">Builder | Full-Cycle Developer | AI-Driven Maker</h3>
 <p align="center">
-  Builder · System Architecture · Automation · AI-driven Development
-</p>
-
-<p align="center">
-  minimal systems • geometric structure • function over decoration
+  I build systems from start to finish.<br/>
+  Architecture · Implementation · Automation · Deployment · AI-assisted Workflow
 </p>
 
 ---
 
-## Identity
+## 🚀 Featured Projects
 
-- 기술보다 **구조**, 구조보다 **흐름**, 흐름보다 **완성도**  
-- 기능·화면·데이터·상태를 하나의 시스템으로 설계  
-- 반복되는 개발 루틴은 모두 **스크립트/도구/AI**로 자동화  
-- “혼자서 팀처럼 일하는 빌더”를 목표로 함  
-- 장식 없는 기하학적 구조, 명확한 정보 배치 선호  
+<table>
+<tr>
+<td width="33%">
+<h4>🔹 AI Commit & PR Generator</h4>
+<p>Git 기록 자동화 도구</p>
+<a href="https://github.com/BETAER-08/AI-Commit-PR-Generator">View Repo</a>
+</td>
 
----
+<td width="33%">
+<h4>🔹 BetaStack</h4>
+<p>개발 루틴·구조 자동화를 위한 Builder 플랫폼</p>
+<a href="https://github.com/BETAER-08/BetaStack">View Repo</a>
+</td>
 
-## Capabilities
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,kotlin,react,flutter,fastapi,nodejs,docker,linux,git,github,vscode,figma,ps,ai,blender" />
-</div>
-
----
-
-## Workflow Philosophy
-
-- form follows function  
-- clarity > complexity  
-- minimal components, maximal coherence  
-- automation over repetition  
-- AI는 구조적 도구이지 땜질용 패치가 아님  
-- 제품은 “돌아가는 것”이 아니라 “버티는 것”이어야 한다  
+<td width="33%">
+<h4>🔹 MorningBoard</h4>
+<p>일상 정보를 한 화면으로 정리하는 패널</p>
+<a href="https://github.com/BETAER-08/MorningBoard">View Repo</a>
+</td>
+</tr>
+</table>
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BETAER-08&show_icons=true&theme=transparent&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETAER-08&layout=compact&theme=transparent&hide_border=true" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BETAER-08&bg_color=ffffff00&color=111&line=FF0000&point=111&area=true&hide_border=true" />
-</div>
+## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BETAER-08&color=111&style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,flutter,dart,kotlin,react,git,github,docker,vscode,linux,ps,ai,pr,ae" />
 </p>
 
 ---
 
+## 📊 Stats & Activity
+
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/bauhaus-footer.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BETAER-08&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BETAER-08&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <sub>contact: (추가 예정)</sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BETAER-08&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BETAER-08&color=blue&style=flat-square" />
+</p>
+
+---
+
+## 🎯 Builder Philosophy
+
+- 복잡한 흐름을 단순한 구조로 바꾸는 데 집중한다  
+- 기능보다 전체 시스템의 안정성과 일관성을 우선한다  
+- 반복되는 작업은 전부 자동화하거나 도구화한다  
+- AI는 작업 속도와 정확성을 높이는 파트너  
+- 목표는 “동작하는 수준”이 아니라 “지속 가능한 시스템”  
+
+---
+
+## 📫 Contact  
+<p align="center">
+  (추가할 이메일·포트폴리오 링크 자리)
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=footer"/>
 </p>
