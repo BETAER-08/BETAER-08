@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=220&section=header&text=BETAER&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Builder | System Engineer | AI-assisted Developer</h3>
+<h3 align="center">Builder | Full-Cycle Developer | AI-Driven Maker</h3>
 <p align="center">
   I build systems end-to-end with a focus on structure, clarity, and automation.
 </p>
@@ -25,11 +25,9 @@ My work centers on simplifying processes and creating stable, maintainable syste
 ---
 
 ## 🧩 Tech Stack
-TS · JS · Python · Rust  
-Flutter · Dart · React · Kotlin  
-FastAPI · Node.js · Docker · Linux  
-Git · GitHub · VS Code  
-Figma · Photoshop · Illustrator · Premiere Pro · After Effects · Blender  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,flutter,kotlin,react,fastapi,nodejs,docker,linux,git,github,vscode,figma,ps,ai,pr,ae,blender" />
+</p>
 
 ---
 
