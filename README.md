@@ -10,6 +10,12 @@
 
 ---
 
+<p align="center">
+  <a href="mailto:tr.betar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tr.betar%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 ## 👤 About Me
 I build products from scratch: structure → implementation → automation → deployment.  
 I prefer predictable flows, minimal complexity, and tools that reduce repetitive work.  
@@ -46,16 +52,6 @@ My work centers on simplifying processes and creating stable, maintainable syste
   <img src="https://komarev.com/ghpvc/?username=BETAER-08&color=blue&style=flat-square" />
 </p>
 
----
-
-## 📫 Contact  
-<p align="center">
-  <a href="mailto:tr.betar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" />
-  </a>
-  <br/>
-  <sub>tr.betar@gmail.com</sub>
-</p>
 <!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=150&section=footer"/>
