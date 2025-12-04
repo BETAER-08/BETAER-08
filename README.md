@@ -1,61 +1,51 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BETAER-08/BETAER-08/main/profile-logo.png" width="140" />
-</p>
-
-<h1 align="center" style="font-weight:700; letter-spacing:1px;">BETAER</h1>
+<h1 align="center" style="font-weight:700; letter-spacing:2px;">BETAER</h1>
 
 <p align="center">
-  <strong>Builder · System Architect · AI-driven Product Maker</strong>
+  Builder · System Architecture · Automation · AI-driven Development
 </p>
 
-<p align="center">
-  minimal systems • geometric structure • functional automation
-</p>
+<div align="center" style="margin-top:24px;">
+  <span style="font-size:42px;">🟥</span>
+  <span style="font-size:42px;">🟨</span>
+  <span style="font-size:42px;">🟦</span>
+</div>
 
-<hr style="border: 0; height: 1px; background: #111;" />
+<p align="center" style="margin-top:8px;">
+  geometry · clarity · minimal systems · function over decoration
+</p>
 
 ---
 
-## 🎛 Featured Projects (Function First)
+## Identity
 
-<table>
-<tr>
-<td width="33%">
-<h4>AI Commit & PR Generator</h4>
-<p style="font-size:14px;">AI가 기록 체계를 정리하는 자동화 툴</p>
-<a href="https://github.com/BETAER-08/AI-Commit-PR-Generator">repo →</a>
-</td>
-
-<td width="33%">
-<h4>BetaStack</h4>
-<p style="font-size:14px;">빌더 생산성을 위한 구조·자동화 시스템</p>
-<a href="https://github.com/BETAER-08/BetaStack">repo →</a>
-</td>
-
-<td width="33%">
-<h4>MorningBoard</h4>
-<p style="font-size:14px;">학교·일상 정보의 기하학적 재배열</p>
-<a href="https://github.com/BETAER-08/MorningBoard">repo →</a>
-</td>
-</tr>
-</table>
+- 기술보다 **구조**, 구조보다 **흐름**, 흐름보다 **완성도**  
+- 하나의 시스템을 처음부터 끝까지 **직접 설계하고 구현**  
+- 반복·패턴·루틴은 도구·스크립트·AI로 전부 치환  
+- 단순한 화면 뒤에도 **정확한 리듬과 데이터 흐름**을 배치  
+- “혼자서 팀 같은 생산성”을 목표로 하는 빌더
 
 ---
 
-## 🎨 Tech Stack (Bauhaus Icon Line)
+## Capabilities (Bauhaus Icon Line)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,python" />
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin" />
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,linux" />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,kotlin,react,flutter,fastapi,nodejs,docker,linux,git,github,vscode,figma,ps,ai,blender" />
 </div>
 
 ---
 
-## ▢ Stats
+## Workflow Philosophy
+
+- form follows function  
+- automation over repetition  
+- clarity > complexity  
+- build systems that remain stable for years  
+- AI is a structural assistant, not decoration  
+- minimal components, maximal coherence  
+
+---
+
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BETAER-08&show_icons=true&theme=transparent&hide_border=true" height="150" />
@@ -72,17 +62,6 @@
 
 ---
 
-## 📐 Builder Philosophy (Bauhaus Principles)
-
-- form follows function  
-- geometry before decoration  
-- clarity > complexity  
-- automate everything repeatable  
-- AI is a tool, not a replacement  
-- build systems that stay stable for years  
-
----
-
-## ☎ Contact  
-<p align="center">(추가할 이메일 / 링크 있으면 넣을 자리)</p>
-
+<p align="center">
+  <sub>contact: (추가 예정)</sub>
+</p>
