@@ -12,7 +12,7 @@
 
 <!-- CONTACT BADGE -->
 <p align="center">
-  <a href="mailto:tr.betar@gmail.com">
+  <a href="mailto:try.betar@gmail.com">
     <img src="https://img.shields.io/badge/Email-try.betaer%40gmail.com-1E90FF?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
