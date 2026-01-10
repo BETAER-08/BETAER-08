@@ -45,7 +45,7 @@ My work centers on simplifying processes and creating stable, maintainable syste
 <img src="https://skillicons.dev/icons?i=ts,js,python,rust,dart,kotlin" /><br/>
 
 <!-- 2줄: FE/BE/Infra -->
-<img src="https://skillicons.dev/icons?i=flutter,react,fastapi,nodejs,docker,linux,git,github,vscode" /><br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,fastapi,nodejs,nextjs,docker,linux,git,github,vscode" /><br/>
 
 <!-- 3줄: 디자인/영상 -->
 <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae" />
